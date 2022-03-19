@@ -26,7 +26,7 @@ keywords: >-
   boys, guys, poledancing, pole dancing, pole stretching, polestretching, pole acrobacies
 baseurl: "https://boysonpoles.github.io/www/" # the subpath of your site, e.g. /blog
 url: "https://boysonpoles.github.io/www/" # the base hostname & protocol for your site, e.g. http://example.com
-fixed_url: ""
+fixed_url: "https://boysonpoles.github.io/www/"
 twitter_username: boysonpoles
 github_username:  boysonpoles
 
